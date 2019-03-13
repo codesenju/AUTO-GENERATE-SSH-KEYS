@@ -1,4 +1,4 @@
 # AUTO-GENERATE-SSH-KEYS
 Auto generate ssh keys with a script.
-Prerequisite:
-sshpass will noeed to e installe don your system.
+<p>Prerequisite:</p>
+<p>sshpass will need to e installe don your system.</p>
