@@ -1,4 +1,4 @@
 # AUTO-GENERATE-SSH-KEYS
-Auto generate ssh keys with a script.
-# Prerequisite:
-<p>sshpass</p>
+auto_gen.sh will automatically generate an ssh keyon your machine and copy it to the host you want to connect to.
+# Prerequisites:
+1. sshpass
