@@ -8,3 +8,8 @@ auto_gen.sh will automatically generate an ssh key on your machine and copy it t
 
 1. sshpass <br>
 Installation guide on how to install sshpass can be found here: https://goo.gl/1p8KjX
+
+# Running the script
+
+1. $ cd /home/$USER && mkdir my_work_folder
+2. $ cd /home/$USER/my_work_folder
