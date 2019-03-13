@@ -5,3 +5,4 @@ auto_gen.sh will automatically generate an ssh key on your machine and copy it t
 # Prerequisites:
 
 1. sshpass
+Installation guide found here: https://goo.gl/1p8KjX
