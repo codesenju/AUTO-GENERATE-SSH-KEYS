@@ -8,8 +8,13 @@ auto_gen.sh will automatically generate an ssh key on your machine and copy it t
 
 1. sshpass <br>
 Installation guide on how to install sshpass can be found here: https://goo.gl/1p8KjX
+2. Git
 
 # Running the script
-
+0. $ apt-get update
 1. $ cd /home/$USER && mkdir my_work_folder
 2. $ cd /home/$USER/my_work_folder
+3. $ sudo apt install git
+4. $ git clone https://github.com/codesenju/AUTO-GENERATE-SSH-KEYS.git5.
+5. $ chmod a+x auto_gen.sh
+6. $ 
