@@ -7,7 +7,7 @@ auto_gen.sh will automatically generate an ssh key on your machine and copy it t
 # Prerequisites:
 
 1. sshpass <br>
-Installation guide on how to install sshpass can be found here: https://goo.gl/1p8KjX
+Installation guide on how to install sshpass can be found <a href="https://goo.gl/1p8KjX" target="_blank">here.</a>
 2. Git
 
 # Running the script
