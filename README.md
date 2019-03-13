@@ -16,5 +16,5 @@ Installation guide on how to install sshpass can be found here: https://goo.gl/1
 2. $ cd /home/$USER/my_work_folder
 3. $ sudo apt install git
 4. $ git clone https://github.com/codesenju/AUTO-GENERATE-SSH-KEYS.git5.
-5. $ chmod a+x auto_gen.sh
-6. $ 
+5. $ chmod a+x AUTO-GENERATE-SSH-KEYS/auto_gen.sh
+6. $ ./AUTO-GENERATE-SSH-KEYS/auto_gen.sh
